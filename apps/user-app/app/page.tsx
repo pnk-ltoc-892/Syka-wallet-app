@@ -5,6 +5,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
+      <h1 className="bg-slate-950 text-white h-10 w-96" >Checking If tailwindCSS got configured Right</h1>
       <main className={styles.main}>
         <Image
           className={styles.logo}
@@ -46,7 +47,7 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-        <Button appName="docs" className={styles.secondary}>
+        <Button appName="User-App" className={styles.secondary}>
           Open alert
         </Button>
       </main>
