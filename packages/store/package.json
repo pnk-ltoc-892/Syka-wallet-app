@@ -5,7 +5,7 @@
   "main": "index.js",
 
   "exports": {
-    "./useBalance": "./src/hooks/useBalance"
+    "./useBalance": "./src/hooks/useBalance.ts"
   },
 
   "scripts": {
