@@ -3,6 +3,8 @@
 
 ## Building Blocks
 - Initialize Turbo-Repo
+- Initialize Tailwind CSS
+- Initialize Prisma
 - 
 
 
